@@ -99,9 +99,9 @@
 		765DBAF821CAD88B00C2FBB8 /* ProgressBar */ = {
 			isa = PBXGroup;
 			children = (
+				76B1943221CFCB9500B35C48 /* Views */,
+				76B1943121CFCB8600B35C48 /* Controllers */,
 				765DBAF921CAD88B00C2FBB8 /* AppDelegate.swift */,
-				765DBAFB21CAD88B00C2FBB8 /* ViewController.swift */,
-				765DBAFD21CAD88B00C2FBB8 /* Main.storyboard */,
 				765DBB0321CAD88B00C2FBB8 /* Assets.xcassets */,
 				765DBB0521CAD88B00C2FBB8 /* LaunchScreen.storyboard */,
 				765DBB0821CAD88B00C2FBB8 /* Info.plist */,
@@ -126,6 +126,22 @@
 				765DBB1E21CAD88B00C2FBB8 /* Info.plist */,
 			);
 			path = ProgressBarUITests;
+			sourceTree = "<group>";
+		};
+		76B1943121CFCB8600B35C48 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				765DBAFB21CAD88B00C2FBB8 /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		76B1943221CFCB9500B35C48 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				765DBAFD21CAD88B00C2FBB8 /* Main.storyboard */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
