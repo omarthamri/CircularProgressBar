@@ -2,7 +2,7 @@
 
 CircularProgressBar is a Circular progress bar indicator written in swift that allows user to track the download progress
 
-#  ScreenShots
+#  Screenshots
 
 <img width="150" height="300" alt="capture d ecran 2018-12-23 a 14 52 43" src="https://user-images.githubusercontent.com/39087448/50384341-ed3b8100-06c3-11e9-91ee-4cb2fa365ea8.png"> <img width="150" height="300" alt="capture d ecran 2018-12-23 a 14 53 08" src="https://user-images.githubusercontent.com/39087448/50384353-1a882f00-06c4-11e9-9dd4-126c4638cd2b.png">
 
